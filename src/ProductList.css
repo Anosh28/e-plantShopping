@@ -250,3 +250,7 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+  .added {
+    background-color: gray;
+    color: white;
+}
